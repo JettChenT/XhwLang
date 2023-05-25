@@ -16,13 +16,21 @@ A valid XHW program consists of a space/newline/tab separated list of
 
 ## Supported operations
 💀: pointer move to left
+
 😍: move pointer to right
+
 😃: increment current pointer (if it is an integer)
+
 ☹️: decrement current pointer (if integer)
+
 🍽️: set current pointer to 🤮
+
 🖨️: print current pointer
+
 ✍️: write to current pointer
+
 🤗: jump past matching 🫣 if cell is 0
+
 🫣: jump back to matching 🤗
 
 ## Example
